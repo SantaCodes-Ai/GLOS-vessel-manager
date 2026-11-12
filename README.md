@@ -81,7 +81,17 @@ These reports document implementation decisions, testing activities and reported
 
 ## 7. Proof of Process
 
-Original AI prompts, responses and screenshots are retained separately as evidence of the development process.
+
+### Original AI Interaction Evidence
+
+Original ChatGPT prompts, AI responses and supporting screenshots are available in the following OneDrive folder:
+
+[View ITNPBD4 Proof of Process Evidence](https://stir-my.sharepoint.com/:f:/g/personal/ivo00015_students_stir_ac_uk/IgAxrsJ7goKTSKG_FlKIZ_Y-AVzrF55MIiLqULjAXeJoAyg?e=FqdVw3)
+
+This folder contains evidence of AI-assisted planning, requirements analysis, implementation, testing and evaluation.
+
+The evidence has been retained separately from the application repository to preserve the original interactions and avoid exposing unrelated ChatGPT conversations.
+
 
 Evidence categories include:
 
