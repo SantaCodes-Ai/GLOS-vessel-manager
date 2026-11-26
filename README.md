@@ -82,26 +82,9 @@ These reports document implementation decisions, testing activities and reported
 ## 7. Proof of Process
 
 
-### Original AI Interaction Evidence
 
-Original ChatGPT prompts, AI responses and supporting screenshots are available in the following OneDrive folder:
+[View ITNPBD4 Report](h[ttps://stir-my.sharepoint.com/:f:/g/personal/ivo00015_students_stir_ac_uk/IgAxrsJ7goKTSKG_FlKIZ_Y-AVzrF55MIiLqULjAXeJoAyg?e=FqdVw3](https://stir-my.sharepoint.com/:w:/g/personal/ivo00015_students_stir_ac_uk/IQBj1GL2wrTSS71BMne8d2vsAXnVMZ8mBCDjs8ixlel7Vwc?e=N72Ekv))
 
-[View ITNPBD4 Proof of Process Evidence](https://stir-my.sharepoint.com/:f:/g/personal/ivo00015_students_stir_ac_uk/IgAxrsJ7goKTSKG_FlKIZ_Y-AVzrF55MIiLqULjAXeJoAyg?e=FqdVw3)
-
-This folder contains evidence of AI-assisted planning, requirements analysis, implementation, testing and evaluation.
-
-The evidence has been retained separately from the application repository to preserve the original interactions and avoid exposing unrelated ChatGPT conversations.
-
-
-Evidence categories include:
-
-1. Initial project planning — August 2026
-2. Requirements refinement — October 2026
-3. AI-assisted implementation
-4. Debugging and iterative prompting
-5. Testing and critical evaluation
-
-Selected evidence may be made available to authorised university assessors.
 
 ## 8. Version Control
 
